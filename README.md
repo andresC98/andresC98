@@ -11,3 +11,6 @@ I'm Andrés Carrillo, a graduated Telecommunications Engineer based in Madrid!
 - 💬 Please feel free to check my personal website / portfolio!: www.andrescarrillo.es
 - 📫 You can reach me via email (me@andrescarrillo.es).
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=andresc98 alt=andresc98/> </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=andresc98&show_icons=true alt=andresc98 /> </p>
