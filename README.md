@@ -4,11 +4,11 @@
 
 I'm Andrés Carrillo, a graduated M.Sc. Big Data and B.Sc. Telecommunications Engineer based in Madrid!
 
-- 💻 I am currently working as a *Data & Artificial Intelligence Engineer* at ***Sngular***.
+- 💻 I am currently working as a ***Machine Learning Engineer*** at **Sngular**.
 - 🔭 I have previously worked as a:
    - **Cloud Application Architect / Developer** at IBM, in the IBM Consulting Hybric Cloud Transformation area.
-   - **Data Scientist** at Carlos III University Signal Processing Department, in **eB2** e-Health startup.
-   - **R&D Software Developer trainee** at **ERICSSON** Spain.
+   - **Artificial Intelligence Engineer** at Carlos III University Signal Processing Department, in **eB2** e-Health startup.
+   - **R&D Software Developer Trainee** at **ERICSSON** Spain.
    - **Machine Learning Research Intern** at **IMDEA Networks** Advanced Research Institute.
    - **Undergraduate Research Assistant** at University of Maryland's **ATMOS department**.
 - 🤔 I’m really interested and passionated about AI, Cloud, Data Science and research, with some side projects and continously learning about Machine Learning and programming languages.
