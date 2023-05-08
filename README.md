@@ -2,10 +2,11 @@
 
 ![alt text](https://github.com/andresC98/andresC98/blob/master/githubprofile.png?raw=true)
 
-I'm Andrés Carrillo, a graduated M.Sc. Big Data and B.Sc. Telecommunications Engineer based in Madrid!
+I'm Andrés Carrillo, M.Sc. Big Data and B.Sc. Telecommunications Engineer based in Madrid!
 
-- 💻 I am currently working as a ***Machine Learning Engineer*** at **Sngular**.
+- 💻 I am currently working as a **Senior Machine Learning Engineer** at *CHEP*.
 - 🔭 I have previously worked as a:
+   - **Machine Learning Engineer** at *Sngular*.
    - **Cloud Application Architect / Developer** at IBM, in the IBM Consulting Hybric Cloud Transformation area.
    - **Artificial Intelligence Engineer** at Carlos III University Signal Processing Department, in **eB2** e-Health startup.
    - **R&D Software Developer Trainee** at **ERICSSON** Spain.
