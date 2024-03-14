@@ -2,7 +2,9 @@
 
 ![alt text](https://github.com/andresC98/andresC98/blob/master/githubprofile.png?raw=true)
 
-I'm Andrés Carrillo, M.Sc. Big Data and B.Sc. Telecommunications Engineer based in Madrid!
+I'm Andrés Carrillo, M.Sc. AI & Big Data and B.Sc. Telecommunications Engineer based in Madrid!
+
+As a Sr. Machine Learning Engineer my work focuses on deploying production-ready AI and Software systems in resilient and performing systems, focusing mainly in containerized and cloud-based environments. I love developing complex AI systems, from its initial prototypes and architecture design to the final monitored, resilient and productive solution in the Cloud.
 
 - 💻 I am currently working as a **Senior Machine Learning Engineer** at *CHEP*.
 - 🔭 I have previously worked as a:
