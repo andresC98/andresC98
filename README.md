@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-![alt text](https://github.com/andresC98/andresC98/blob/master/githubprofile.png?raw=true)
+![alt text](https://github.com/andresC98/andresC98/blob/master/backgroundGithub.png?raw=true)
 
 I'm Andrés Carrillo, M.Sc. AI & Big Data and B.Sc. Telecommunications Engineer based in Madrid!
 
