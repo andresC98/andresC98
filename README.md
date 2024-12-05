@@ -4,16 +4,9 @@
 
 I'm Andrés Carrillo, M.Sc. AI & Big Data and B.Sc. Telecommunications Engineer based in Madrid!
 
-As a Sr. Machine Learning Engineer my work focuses on deploying production-ready AI and Software systems in resilient and performing systems, focusing mainly in containerized and cloud-based environments. I love developing complex AI systems, from its initial prototypes and architecture design to the final monitored, resilient and productive solution in the Cloud.
+As a Sr. LLM / Machine Learning Engineer my work focuses on deploying production-ready AI and Software systems in resilient and performing systems, focusing mainly in containerized and cloud-based environments. I love developing complex AI systems, from its initial prototypes and architecture design to the final monitored, resilient and productive solution in the Cloud.
 
-- 💻 I am currently working as a **Senior Machine Learning Engineer** at *CHEP*.
-- 🔭 I have previously worked as a:
-   - **Machine Learning Engineer** at *Sngular*.
-   - **Cloud Application Architect / Developer** at IBM, in the IBM Consulting Hybric Cloud Transformation area.
-   - **Artificial Intelligence Engineer** at Carlos III University Signal Processing Department, in **eB2** e-Health startup.
-   - **R&D Software Developer Trainee** at **ERICSSON** Spain.
-   - **Machine Learning Research Intern** at **IMDEA Networks** Advanced Research Institute.
-   - **Undergraduate Research Assistant** at University of Maryland's **ATMOS department**.
+- 💻 I am currently working as a **Senior LLM Operations Engineer** at *Adyen*.
 - 🤔 I’m really interested and passionated about AI, Cloud, Data Science and research, with some side projects and continously learning about Machine Learning and programming languages.
 - 💬 Please feel free to check my personal website / portfolio!: www.andrescarrillo.es
 - 📫 You can reach me via email (me@andrescarrillo.es).
